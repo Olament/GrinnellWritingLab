@@ -1,5 +1,5 @@
 # Grinnell Writing Lab
-It is a Golang script that check the availability of spots for you so that you do not need to refresh page every ten second. It will send you a system-level notification when there exist a avaliable spot. To prevent exploitation, the the script will **NOT** reserve the spot for you automatically.
+It is a Golang script that check the availability of spots for you so that you do not need to refresh page every ten second. It will send you a system-level notification when there is a spot available. To prevent exploitation, the the script will **NOT** reserve the spot for you automatically.
 
 ## Getting Started
 ### Configuration
